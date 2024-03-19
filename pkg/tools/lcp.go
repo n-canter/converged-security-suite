@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/google/go-tpm/tpm2"
+	"github.com/google/go-tpm/legacy/tpm2"
 )
 
 // HashAlgMap exports map from crypto.Hash to LCPPol2Hash for parsing manual input to LCPPolicy2

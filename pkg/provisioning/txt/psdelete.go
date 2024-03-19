@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/go-tpm/tpmutil"
 
-	"github.com/google/go-tpm/tpm2"
+	"github.com/google/go-tpm/legacy/tpm2"
 )
 
 // DeletePSIndexTPM20 deletes the PS index on TPM 2.0

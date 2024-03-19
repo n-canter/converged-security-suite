@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	tpm2 "github.com/google/go-tpm/tpm2"
+	tpm2 "github.com/google/go-tpm/legacy/tpm2"
 )
 
 // DefinePSIndexTPM20 creates the PS index for TPM 2.0
